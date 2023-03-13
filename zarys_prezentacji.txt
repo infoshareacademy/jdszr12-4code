@@ -1,0 +1,38 @@
+1. Zagadnienie - problemu: 
+Czy w Bangalore da się zjeść tanio i smacznie i czy najlepsze restauracje to te najwyżej oceniane. 
+dodatkowo nasza analizę należy traktować jako przewodnik dla osoby, która nigdy nie była w Bangalore a musi coś zjeść. 
+
+2. Opis posiadanych danych: 
+- plik csv z restauracjami, 
+- dane demograficzne z internetu. 
+- informacje o miejscowości i jej rozwoju z internetu
+- Krótki opis do czego wykorzystaliśmy powyższe informacje: 
+np. informacje o rozwoju miejscowości pozwalają nam przypuszczać iż miasto dalej się rozwija i pojawiają się nowe inwestycje co sprzyja rozwojowi biznesu restauracyjnego
+
+3. Analiza danych: 
+krótko o tym jak oczyściliśmy dane
+wykresy: 
+- liczba wszystkich restauracji ( można też w odniesieniu do liczby mieszkańców) - nie mam 
+- ilość i rating
+- najczęstsze ceny
+- najpopularniejsza kuchnia - nie mam 
+- najlepiej oceniana kuchnia - nie mam 
+- średni koszt a ocena 
+- średnia liczba głosów a ocena - ( do problemu 2)
+- najwyżej oceniane - najsmaczniejsze ( do problemu 2) 
+- warunek na smacznie i tanio - jakie przyjęliśmy założenia i podać liczbę i listę restauracji (ewentualnie położenie na mapie) 
+
+4. Wnioski: 
+-da się zjeść smacznie i tanio
+-tak, popularne są najlepiej oceniane ( w domyśle najsmaczniejsze) 
+-biorąc pod uwagę dane demograficzne i ciągłe informację można przyjąć że przemysł restauracyjny będzie się rozwijał i może to być dobra inwestycja ( jaką restaurację otworzyć :  najpopularniejszymi daniami, ze średnią ceną i w miejscu otwierania nowych zakładów pracy) 
+
+
+Ta część o rozwoju i o inwestycjach to to o czym mówił Zibi, że ktoś tam inwestuje, można tez sprawdzić dane demograficzne jaki jest przyrost ludności. ) 
+
+1. 1- 2 slajdy
+2. 5-6 slajdów
+3. 11-13 slajdów ( na każdym slajdzie 1 wykres) 
+4. 2-3 slajdy
+Łącznie około 25 slajdy z omówieniem akurat 10 minut
+
